@@ -3,8 +3,8 @@
 
 | Personne            | Rôle                      | Github                                   | Linkedin                                                                               |
 | ------------------- | ------------------------- | ---------------------------------------- | -------------------------------------------------------------------------------------- |
-| Fabrice PIVERT      | Backend | [Fabrice](https://github.com/FabPiv) | [F_Pivert](https://www.linkedin.com/in/fabrice-pivert-)                       |
-|
+| Fabrice PIVERT      | Backend | [Fabrice](https://github.com/FabPiv) | [F_Pivert](https://www.linkedin.com/in/fabrice-pivert-)     |
+
 
 ## Comment utiliser le paint
 
