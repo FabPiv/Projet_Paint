@@ -4,6 +4,8 @@
 | Personne            | Rôle                      | Github                                   | Linkedin                                                                               |
 | ------------------- | ------------------------- | ---------------------------------------- | -------------------------------------------------------------------------------------- |
 | Fabrice PIVERT      | Backend | [Fabrice](https://github.com/FabPiv) | [F_Pivert](https://www.linkedin.com/in/fabrice-pivert-)     |
+| Emannuel RAMOS     | Front-End | [Emmanuel] |     |
+
 
 
 ## Comment utiliser le paint
