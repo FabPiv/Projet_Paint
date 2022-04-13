@@ -3,7 +3,7 @@
 
 | Personne            | Rôle                      | Github                                   | Linkedin                                                                               |
 | ------------------- | ------------------------- | ---------------------------------------- | -------------------------------------------------------------------------------------- |
-| ARUMAINATHAN Rijenth        | Backend | [@Rijenth](https://github.com/Rijenth) | [A_Rijenth](https://www.linkedin.com/in/rijentha/)                       |
+| Fabrice PIVERT      | Backend | [Fabrice](https://github.com/FabPiv) | [F_Pivert](https://www.linkedin.com/in/fabrice-pivert-)                       |
 |
 
 ## Comment utiliser le paint
