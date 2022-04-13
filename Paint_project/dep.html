@@ -1,0 +1,55 @@
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="dep.css">
+</head>
+<body>
+
+
+    <div class="menu">
+ 
+        <div class="outils">
+            <a class="ouvrir" href="#" id="open"><img src="open-icon.png"></a>
+            <a href="#" id="save" ><img src="save-icon.png"></a>
+            <a href="#" id="line" ><img src="line-icon.png"></a>
+            <a href="#" id="rectangle" onclick="showCarre()" ><img src="rectangle-icon.png"></a>
+            <a href="#" id="circl" onclick="showCercle()"><img src="circle-icon.png"></a>
+            <a href="#" id="Star" onclick="showStar()"><img src="star.png"></a>
+            <a href="#" id="rectan" onclick="showRect()"><img src="rectangle.png"></a>
+
+
+        </div><br>
+        <p>couleur carré</p>
+        <input onchange="changeSquareColor(this)" type="color" name="" id="">
+        <p>couleur cercle</p>
+        <input onchange="changeCircleColor(this)" type="color" name="" id="">
+        <p>couleur rectangle</p>
+        <input onchange="changeRectColor(this)" type="color" name="" id="">
+        <p>couleur etoile</p>
+        <input onchange="changeStarColor(this)" type="color" name="" id="">
+
+    <svg  viewBox="0 0 30 30" xmlns="http://www.w3.org/2000/svg" onload="makeDraggable(evt)">
+    <rect id="fond" x="5" y="0" width="25" height="17" fill="#FFFFCC"/> 
+
+    <rect  x="0" y="0" width="5" height="12" fill="#FFCCCC"/> rectangle beige
+    
+    <rect id="square" class="draggable confine" fill="#33FF33" x="23" y="4" width="6" height="5"/> carré noir
+    <rect id="rec" class="draggable confine" fill="#FF0000" x="23" y="4" width="6" height="3"/>rect bleu
+    
+    <ellipse id= "Circle" class="draggable confine" fill="#ff00af" cx="5" cy="5" rx="3" ry="2" transform="translate(10, 0)"/>cercle
+    <polygon id="etoile" class="draggable confine" fill="#ffa500" x="23" y="4"points="16.9 15.6 17.4 18.2 15 17 12.6 18.2 13.1 15.6 11.2 13.8 13.8 13.4 15 11 16.2 13.4 18.8 13.8"/>
+</svg>
+<script src="dep.js"></script>
+</body>
+</html>
+
+
+
+
